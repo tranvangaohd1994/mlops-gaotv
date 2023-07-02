@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/132278254582223460/2b39ab7f2ee945ac8a53773275a5ecb1/artifacts
+end_time: 1688261787859
+entry_point_name: ''
+experiment_id: '132278254582223460'
+lifecycle_stage: active
+run_id: 2b39ab7f2ee945ac8a53773275a5ecb1
+run_name: puzzled-mouse-124
+run_uuid: 2b39ab7f2ee945ac8a53773275a5ecb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688261785553
+status: 3
+tags: []
+user_id: ubuntu

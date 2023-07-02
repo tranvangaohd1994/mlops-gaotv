@@ -18,7 +18,7 @@ from raw_data_processor import RawDataProcessor
 from utils import AppConfig, AppPath
 import time
 
-rootF = '/home/gao/mlops/gao.tv/mlops-mara-sample-public'
+rootF = '/home/ubuntu/mlops/mlops-gaotv'
 class Data(BaseModel):
     id: str
     rows: list

@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1688263022779
+current_stage: None
+description: ''
+last_updated_timestamp: 1688263022779
+name: phase-1_prob-1_model-1
+run_id: ce742920cf7344ad8b5c7dd547c1e108
+run_link: ''
+source: mlflow-artifacts:/206245672211244879/ce742920cf7344ad8b5c7dd547c1e108/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2

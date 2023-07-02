@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 
 from problem_config import ProblemConfig, ProblemConst, get_prob_config
 
-
+rootF = '/home/ubuntu/mlops/mlops-gaotv/'
 class RawDataProcessor:
     @staticmethod
     def build_category_features(data, categorical_cols=None):
@@ -89,7 +89,7 @@ class RawDataProcessor:
 
     @staticmethod
     def load_category_index(prob_config: ProblemConfig):
-        with open(prob_config.category_index_path, "rb") as f:
+        with open(rootF + str(prob_config.category_index_path), "rb") as f:
             return pickle.load(f)
 
     @staticmethod

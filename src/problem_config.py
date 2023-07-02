@@ -37,9 +37,9 @@ class ProblemConfig:
     captured_x_path: str
     uncertain_y_path: str
 
-
+rootF = '/home/ubuntu/mlops/mlops-gaotv/'
 def load_feature_configs_dict(config_path: str) -> dict:
-    with open(config_path) as f:
+    with open(rootF + str(config_path)) as f:
         features_config = json.load(f)
     return features_config
 

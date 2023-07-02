@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206245672211244879/ce742920cf7344ad8b5c7dd547c1e108/artifacts
+end_time: 1688261761476
+entry_point_name: ''
+experiment_id: '206245672211244879'
+lifecycle_stage: active
+run_id: ce742920cf7344ad8b5c7dd547c1e108
+run_name: defiant-penguin-479
+run_uuid: ce742920cf7344ad8b5c7dd547c1e108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688261759146
+status: 3
+tags: []
+user_id: ubuntu
